@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2026/sem1/ICA/computer-architecture/ALU_RF/ALU_RF.srcs/sources_1/imports/source/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2026/sem1/ICA/computer-architecture/ALU_RF/ALU_RF.srcs/sources_1/imports/source/RF_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF_tb
